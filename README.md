@@ -245,4 +245,4 @@ This repository serves as the official landing page for Windows Live Family Safe
 **Get the most recent version of Windows Live Family Safety today!**
 
 ---
-**Last updated:** 2026-11-06 21:48:43 UTC
+**Last updated:** 2026-11-07 01:20:13 UTC
